@@ -52,13 +52,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-//        btn.setCompoundDrawablesWithIntrinsicBounds();设置上下左右图片
-//        Resources res = this.getResources();
-//        Drawable myImage = res.getDrawable(R.mipmap.skin_tab_icon_contact_selected);
-//        btn.setCompoundDrawablesWithIntrinsicBounds(null, myImage, null, null);
-
-
-
         views = new ArrayList<>();
         views.add(view1);
         views.add(view2);
